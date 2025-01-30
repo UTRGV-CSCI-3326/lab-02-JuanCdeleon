@@ -8,7 +8,7 @@ public class MixMatch{
         System.out.println("The character stores letters or signs like: " + c);
         short d = -32766;
         System.out.println("The short numner stores whole numbers from -32000 to 32000 like: " + d);
-        long e = 223385;
+        long e = -223385;
         System.out.println("Long variables stores, also, whole numbers from big ranges between -9 million to 9 miillion and more like: " + e);
         double f = 3.423;
         System.out.println("Double numbers stores 15 to 16 decimal digits: " + f);
